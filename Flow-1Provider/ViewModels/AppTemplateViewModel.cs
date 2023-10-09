@@ -4,6 +4,9 @@ namespace Flow_1Provider.ViewModels
 {
     public class AppTemplateViewModel
     {
+        [JsonProperty("coverImage")]
+        public string? CoverImage { get; set; }
+
         [JsonProperty("firstName")]
         public string FirstName { get; set; }
 

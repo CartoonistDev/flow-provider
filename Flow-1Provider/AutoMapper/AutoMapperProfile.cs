@@ -12,12 +12,13 @@ namespace Flow_1Provider.AutoMapper
             #region AppTemplate
             CreateMap<AppTemplateBindingModel, AppTemplate>().ReverseMap(); //reverse so the both direction
             CreateMap<AppTemplate, AppTemplateViewModel>().ReverseMap();
+            CreateMap<AppTemplate, AppTemplatePreviewViewModel>().ReverseMap();
             #endregion
-
 
             #region Programs
             CreateMap<ProgramBindingModel, Programs>().ReverseMap(); //reverse so the both direction
             CreateMap<Programs, ProgramViewModel>().ReverseMap();
+            CreateMap<Programs, ProgramPreviewViewModel>().ReverseMap();
             #endregion
 
             #region Stage
