@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/6rkhH1lMUW0bgTlRIpmZATuSRA0JSnjrqDAtTaMlhCkbs6t6KHvDlCgrhXVSlsEzH//a/savMiNvP+wSh4og==",
+  "success": true,
+  "projectFilePath": "C:\\AccessBox\\New folder (2)\\flow-provider\\Flow-1Provider.data\\Flow-1Provider.data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibeme\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

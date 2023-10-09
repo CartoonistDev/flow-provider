@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Flow-1Provider.props" />
+</Project>
